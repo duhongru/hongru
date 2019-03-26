@@ -1,6 +1,6 @@
 title: Hongru Du
 url: "https://duhongru.github.io/hongru/"
-baseurl: "/hongrudu"
+baseurl: "/hongru"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
