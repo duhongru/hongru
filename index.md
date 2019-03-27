@@ -37,7 +37,7 @@ Here is a horizontal rule
 
 Here is a blockquote
 
-> To a great mind, nothing is little
+> **"Determination silences doubters" - Kobe Bryant**
 
 ## References
 
