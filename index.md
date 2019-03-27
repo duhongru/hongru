@@ -13,6 +13,7 @@ Hi! I am a student of Civil Engineering (Concentration on Operations Research) a
 I am interested in applying mathmatical programming, stochastic modeling and simulation to the field of healthcare systems, energy problems and etc. 
 
 ## Publications
+
 1. V.bier, **H.Du**, Y.Zhou, "Game-theoretic Modeling of Prediaster Relocation", submitted to Engineering Economists
 2. H.Kou, H.Luo, **H.Du**, P.Du, F.lang, B.Lin, "Research on Application of High Power CO2 Heat PumP Hot Water System by Central Heating of Large Temperature Difference and Low Flow in Cold Regions", Building Energy and Environment, ISSN: 1003-0344, 2017
 3. H.Kou, H.Luo, **H.Du**, "Research on the quality of CO2 Heat Pump at Low Temperature", Low Temperature Architecture Technology, ISSN:1001-6864, 2016, 38(11).
@@ -26,20 +27,13 @@ Applying simulation and stochastic programming model to rebuild the appiontment 
 
 * **Game-Theoretic Modelling of Pre-diaster Relocation**     10/2017-12/2018
 
-We built a game-theoretic model for government and residents at high flood risk area. The optimal strategy for government was found. To minimize the total cost, governmnet could offer a subsidy for the residents and encourage them to leave before the flood happens. I had a presentation about this project at [INFORMS](https://www.informs.org/) Annual Meeting 2018.
-More realistic analysis can be applied with the data form New York city. Professor Bier and Mark are keep working on this topic.
+We built a game-theoretic model for government and residents at high flood risk area. Under different situations, the optimal strategy for government can be found. To minimize the total cost, governmnet could offer a subsidy for the residents and encourage them to leave before the flood happens. I had a presentation about this project at [INFORMS](https://www.informs.org/) Annual Meeting 2018.
+More realistic analysis can be applied with the data form New 
+York city. Professor Bier and Mark are keep working on this topic.
 
-This is a [link](http://google.com). Something *italics* and something **bold**.
+* **CO2 Heat Pump Systems**  09/2015-05/2016
 
-Here is a table
-
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
-
-Here is a horizontal rule
+I took part in the research and development of CO2 Heat Pump and Built up the control system. This product uses CO2 as freezing agent, which is harmless for environment. Now, [Kunming Dongqi Technology](http://www.r744.com/companies/view/china_kunming_dongqi_technology_) has produced high performance CO2 Heat Pump and sold over China and Singpore. 
 
 ---
 
@@ -47,7 +41,3 @@ Here is a horizontal rule
 
 > **"Determination silences doubters" - Kobe Bryant**
 
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
