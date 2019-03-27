@@ -14,11 +14,7 @@ Hi! I am a student of Civil Engineering (Concentration on Operations Research) a
 I am interested in applying mathmatical programming, stochastic modeling and simulation to the field of healthcare systems, energy problems and etc. 
 
 ## Publications
-
-?	H. Du, Y. Zhou, V. Bier, "Game-theoretic Modeling of Pre-disaster Relocation", submitted to Engineering Economist.
-?	H. Kou, H. Luo, H. Du, P. Du, F. Lang, B. Lin, ¡°Research on Application of High Power CO2 Heat Pump Hot Water System by Central Heating of Large Temperature Difference and Low Flow in Cold Regions¡±, Building Energy and Environment, ISSN: 1003-0344, 2017.
-?	H. Kou, H. Luo, H. Du, ¡°Research on the Quality of CO2 Heat Pump at Low Temperature¡±, Low Temperature Architecture Technology, ISSN: 1001-6864, 2016, 38(11).
-?	H. Dou, H. Luo, H. Du, ¡°An Experimental Study of the Effects of Inlet Water Temperature of Air Source Carbon Dioxide Heat Pump under Low-Temperature Climate Conditions¡±, Journal of Chemical Industry and Engineering, ISSN: 0438-1157, 2016.
+1. V.bier, H.Du, Y.Zhou, "Game-theoretic Modeling of Prediaster Relocation", submitted to Engineering Economists
 
 ## Typography
 
