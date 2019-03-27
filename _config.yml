@@ -5,7 +5,7 @@ baseurl: "/hongru"
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
 
-tracking_id: #hongru du
+tracking_id: hongru du
 
 footer: yes
 footer_text: "Page design by Hongru Du"
