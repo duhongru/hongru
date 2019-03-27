@@ -14,12 +14,12 @@ Hi! I am a student of Civil Engineering (Concentration on Operations Research) a
 I am interested in applying mathmatical programming, stochastic modeling and simulation to the field of healthcare systems, energy problems and etc. 
 
 ## Publications
-1. V.bier, H.Du, Y.Zhou, "Game-theoretic Modeling of Prediaster Relocation", submitted to Engineering Economists
-2. H.Kou, H.Luo, H.Du, P.Du, F.lang, B.Lin, "Research on Application of High Power CO2 Heat PumP Hot Water System by Central Heating of Large Temperature Difference and Low Flow in Cold Regions", Building Energy and Environment, ISSN: 1003-0344, 2017
-3. H.Kou, H.Luo, H.Du, "Research on the quality of CO2 Heat Pump at Low Temperature", Low Temperature Architecture Technology, ISSN:1001-6864, 2016, 38(11).
-4. H.Kou, H.Luo, H.Du, "An Experimental Study of the Effects of Inlet Water Temperature of Air SOurce Carbon Dioxide Heat Pump under Low-Temperature Climate Conditions", Journal of Chemical Industrial and Engineering, ISSN:0438-1157, 2016.
+1. V.bier, **H.Du**, Y.Zhou, "Game-theoretic Modeling of Prediaster Relocation", submitted to Engineering Economists
+2. H.Kou, H.Luo, **H.Du**, P.Du, F.lang, B.Lin, "Research on Application of High Power CO2 Heat PumP Hot Water System by Central Heating of Large Temperature Difference and Low Flow in Cold Regions", Building Energy and Environment, ISSN: 1003-0344, 2017
+3. H.Kou, H.Luo, **H.Du**, "Research on the quality of CO2 Heat Pump at Low Temperature", Low Temperature Architecture Technology, ISSN:1001-6864, 2016, 38(11).
+4. H.Kou, H.Luo, **H.Du**, "An Experimental Study of the Effects of Inlet Water Temperature of Air SOurce Carbon Dioxide Heat Pump under Low-Temperature Climate Conditions", Journal of Chemical Industrial and Engineering, ISSN:0438-1157, 2016.
 
-## Typography
+## Projects
 
 This is a [link](http://google.com). Something *italics* and something **bold**.
 
