@@ -34,8 +34,6 @@ York city. Professor Bier and Mark are keep working on this topic.
 * **CO2 Heat Pump Systems**  09/2015-05/2016
 
 I took part in the research and development of CO2 Heat Pump and Built up the control system. This product uses CO2 as freezing agent, which is harmless for environment. Now, [Kunming Dongqi Technology](http://www.r744.com/companies/view/china_kunming_dongqi_technology_) has produced high performance CO2 Heat Pump and sold over China and Singpore. 
-If you are interested in this product, please see Dongqi's [website]£¨http://www.dqbest.net/£©.
-
 
 ---
 
