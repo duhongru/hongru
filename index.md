@@ -11,7 +11,7 @@ Hi! I am a student of Civil Engineering (Concentration on Operations Research) a
 
 ## Research Interest
 
-I am interested in applying mathmatical programming, stochastic modeling and simulation to the field of healthcare systems. 
+I am interested in applying mathmatical programming, stochastic modeling and simulation to the field of healthcare systems, energy probelm and etc. 
 
 ## Publications
 

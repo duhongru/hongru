@@ -3,24 +3,21 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+* Email: [hongrudu1994@gmail.com](mailto:hongrudu1994@gmail.com)
 
-* Phone: [+91-123123](tel:+91-123123)
+* Phone: 608-422-2996
 
 ---
 
 ## Mailing Address
 
-> 221B, Baker Street
+> Apt 902, 400 west 113 street
 >
-> London
+> New York
 >
-> United Kingdom
+> United States
+>
+> 10025
 
 ---
 
-## Social
-
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
