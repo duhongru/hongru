@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="hdpicture.jpg">
 
-Hi! I am a student of Civil Engineering (Concentration on Operations Research) at Johns Hopkins University. Before I join JHU, I recieved master degree of Industrial Engineering from University of Wisconsin at Madison, where I worked with [Prof. Vicki Bier](https://directory.engr.wisc.edu/ie/faculty/bier_vicki) and her PhD student Mark Zhou.
+Hi! I am a student of Civil Engineering (Concentration on Operations Research) at Johns Hopkins University [(Center for Systems Science and Engineering)](https://engineering.jhu.edu/civil/research/systems/). Before I join JHU, I recieved master degree of Industrial Engineering from University of Wisconsin at Madison, where I worked with [Prof. Vicki Bier](https://directory.engr.wisc.edu/ie/faculty/bier_vicki) and her PhD student Mark Zhou.
 
 This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
 
