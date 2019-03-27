@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## About Me
+## Hongru Du
 
 <img class="profile-picture" src="hdpicture.jpg">
 
