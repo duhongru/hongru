@@ -21,6 +21,10 @@ I am interested in applying mathmatical programming, stochastic modeling and sim
 
 ## Projects
 
+* **Advanced Health Accessed Project**         09/2018-12/2018
+
+Applying simulation and stochastic programming model to rebuild the appiontment schedule for SSM Health Hospital. The waiting time for Acute visits can be reduced from around six weeks to within one week.
+
 This is a [link](http://google.com). Something *italics* and something **bold**.
 
 Here is a table
@@ -35,7 +39,7 @@ Here is a horizontal rule
 
 ---
 
-Here is a blockquote
+
 
 > **"Determination silences doubters" - Kobe Bryant**
 
