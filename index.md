@@ -8,7 +8,6 @@ layout: default
 
 Hi! I am a student of Civil Engineering (Concentration on Operations Research) at Johns Hopkins University [(Center for Systems Science and Engineering)](https://engineering.jhu.edu/civil/research/systems/). Before I join JHU, I recieved master degree of Industrial Engineering from University of Wisconsin at Madison, where I worked with [Prof. Vicki Bier](https://directory.engr.wisc.edu/ie/faculty/bier_vicki) and her PhD student Mark Zhou. I also recieved bachelor's degree in Material Science and Chemical Engineering from [University of Edinburgh](https://www.ed.ac.uk/) and [Tianjin University](http://www.tju.edu.cn/english/) respectively. 
 
-
 ## Research Interest
 
 I am interested in applying mathmatical programming, stochastic modeling and simulation to the field of healthcare systems, energy problems and etc. 
@@ -23,7 +22,12 @@ I am interested in applying mathmatical programming, stochastic modeling and sim
 
 * **Advanced Health Accessed Project**         09/2018-12/2018
 
-Applying simulation and stochastic programming model to rebuild the appiontment schedule for SSM Health Hospital. The waiting time for Acute visits can be reduced from around six weeks to within one week.
+Applying simulation and stochastic programming model to rebuild the appiontment schedule for [SSM Health Hospital](https://www.ssmhealth.com/). The waiting time for Acute visits can be reduced from around six weeks to within one week.
+
+* **Game-Theoretic Modelling of Pre-diaster Relocation**     10/2017-12/2018
+
+We built a game-theoretic model for government and residents at high flood risk area. The optimal strategy for government was found. To minimize the total cost, governmnet could offer a subsidy for the residents and encourage them to leave before the flood happens. I had a presentation about this project at [INFORMS](https://www.informs.org/) Annual Meeting 2018.
+More realistic analysis can be applied with the data form New York city. Professor Bier and Mark are keep working on this topic.
 
 This is a [link](http://google.com). Something *italics* and something **bold**.
 
