@@ -1,4 +1,4 @@
-<meta name="google-site-verification" content="iCXpKiFxMrR-Ewynt3-tGv4LX7O4J6dJW48GIPObRbc" />
+
 title: Hongru Du
 url: "https://duhongru.github.io/hongru/"
 baseurl: "/hongru"
@@ -6,7 +6,7 @@ baseurl: "/hongru"
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
 
-tracking_id: hongru du
+tracking_id: https://duhongru.github.io/hongru/
 
 footer: yes
 footer_text: "Page design by Hongru Du"
