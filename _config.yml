@@ -6,7 +6,7 @@ baseurl: "/hongru"
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
 
-tracking_id: https://duhongru.github.io/hongru/
+tracking_id: "https://duhongru.github.io/hongru/"
 
 footer: yes
 footer_text: "Page design by Hongru Du"
