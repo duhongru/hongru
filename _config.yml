@@ -6,7 +6,7 @@ baseurl: "/hongru"
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
 
-tracking_id: https://duhongru.github.io/hongru/
+tracking_id: "https://duhongru.github.io/hongru/"
 
 footer: yes
 footer_text: "Page design by Hongru Du"
@@ -22,5 +22,12 @@ nav:
    link: "resume.pdf"
  - name: "Contact"
    link: "contact"
+<<<<<<< HEAD
 plugins:
   - jekyll-seo-tag
+=======
+google-site-verification: googlea9cd1a695ed6013b.html
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+>>>>>>> 6e29cac8a48d6585cf22190665d07ae06167f5d7
