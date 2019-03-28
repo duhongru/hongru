@@ -23,8 +23,6 @@ nav:
  - name: "Contact"
    link: "contact"
 <<<<<<< HEAD
-plugins:
-  - jekyll-seo-tag
 =======
 google-site-verification: googlea9cd1a695ed6013b.html
 plugins:
