@@ -23,3 +23,6 @@ nav:
  - name: "Contact"
    link: "contact"
 google-site-verification: googlea9cd1a695ed6013b.html
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
